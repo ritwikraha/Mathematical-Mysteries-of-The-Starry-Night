@@ -11,3 +11,6 @@ There are even some stunning [academic journals](https://arxiv.org/pdf/1902.0338
 - - - -
 However is that all?
 Or is there some deeper mathematical patterns lying underneath this beautiful artwork.
+
+![starry_night](https://user-images.githubusercontent.com/44690292/57987014-9468ec80-7a99-11e9-8168-cfe531a844ae.jpg)
+## Let's Find Out!
