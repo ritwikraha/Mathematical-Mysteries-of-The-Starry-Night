@@ -39,7 +39,7 @@ max(corr(:))
 thresh =  max(corr(:))/1.5;
 % display pixels with values over the threshold.
 Td = corr > thresh;
-se = strel('disk',5);
+se = strel('disk',2);
 Tdil = imdilate(Td,se);
 figure
 imshow(Tdil,[]) 
