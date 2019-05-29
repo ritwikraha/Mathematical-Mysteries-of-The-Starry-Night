@@ -14,3 +14,17 @@ Or is there some deeper mathematical patterns lying underneath this beautiful ar
 
 ![starry_night](https://user-images.githubusercontent.com/44690292/57987014-9468ec80-7a99-11e9-8168-cfe531a844ae.jpg)
 ## Let's Find Out!
+- - - -
+
+### Results:
+1. Finding correlation using `Matlab`
+![starry_correlation](https://user-images.githubusercontent.com/44690292/58578356-393bb480-8266-11e9-9fde-71a6171a9cc3.jpg)
+2. Extracting a 3-D Graph from the image
+![starry_graph](https://user-images.githubusercontent.com/44690292/58579661-30001700-8269-11e9-8418-73c3a7ec25de.jpg)
+
+- - - -
+As the saying goes
+
+>Come in close. Closer. Because the more you think you see, the easier it will be to fool you.
+>Because what is seeing?
+>You're looking, but what you're actually doing is filtering, interpreting, searching for meaning...
