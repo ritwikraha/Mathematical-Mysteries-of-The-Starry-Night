@@ -30,6 +30,7 @@ As the saying goes
 ![starry_correlation](https://user-images.githubusercontent.com/44690292/58578356-393bb480-8266-11e9-9fde-71a6171a9cc3.jpg)
 2. Extracting a 3-D Graph from the image using `Wolfram Mathematica`
 ![starry_graph](https://user-images.githubusercontent.com/44690292/58579661-30001700-8269-11e9-8418-73c3a7ec25de.jpg)
-
+3. A spanning tree from the 2-D morphological graph
+![starry_spanning_tree](https://user-images.githubusercontent.com/44690292/58620737-74c99380-82e5-11e9-8f2b-9b8333efcfe1.png)
 - - - -
 
