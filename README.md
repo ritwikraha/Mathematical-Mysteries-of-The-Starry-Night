@@ -19,7 +19,7 @@ As the saying goes
 >Because what is seeing?
 >You're looking, but what you're actually doing is filtering, interpreting, searching for meaning...
 
-## Let's Find Out!
+## Let's Hunt Patterns!
 
 ![starry_night](https://user-images.githubusercontent.com/44690292/57987014-9468ec80-7a99-11e9-8168-cfe531a844ae.jpg)
 
@@ -30,7 +30,7 @@ As the saying goes
 ![starry_correlation](https://user-images.githubusercontent.com/44690292/58578356-393bb480-8266-11e9-9fde-71a6171a9cc3.jpg)
 2. Extracting a 3-D Graph from the image using `Wolfram Mathematica`
 ![starry_graph](https://user-images.githubusercontent.com/44690292/58579661-30001700-8269-11e9-8418-73c3a7ec25de.jpg)
-3. A spanning tree from the 2-D morphological graph
+3. A spanning tree from the 2-D morphological graph using `Wolfram Mathematica`
 ![starry_spanning_tree](https://user-images.githubusercontent.com/44690292/58621109-45675680-82e6-11e9-8f65-44294e0b06e6.png)
 
 - - - -
